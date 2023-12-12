@@ -56,7 +56,7 @@ export const experiencesData = [
     description:
       'I used to work at PT. Cakra Radha Mustika where, in this role, I learned a lot about frontend tech stack such as Next.js, Axios, Typescript, and React Formik for form validation. During those 4 months, my project was building a Custom Relationship Manager (CRM) website.',
     icon: React.createElement(FaReact),
-    date: 'March 2022 - June 2022',
+    date: 'March 2022 - June 2023',
   },
 ] as const;
 
