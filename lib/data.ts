@@ -58,6 +58,14 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: 'March 2022 - June 2023',
   },
+  {
+    title: 'Software Developer',
+    location: 'Jakarta, Indonesia',
+    description:
+      'In this position, I worked as an intern at PT. Cakra Wijaya Solusi. During the internship, I did many things such as building a cost-estimator application using React.js technology and also developing a company profile website using Next.js.',
+    icon: React.createElement(FaReact),
+    date: 'January 2024 - May 2024',
+  },
 ] as const;
 
 export const projectsData = [
